@@ -1,0 +1,10 @@
+E:\dotnet_Projects\Student Grading System\obj\Debug\StudentGradingSystem.csproj.AssemblyReference.cache
+E:\dotnet_Projects\Student Grading System\obj\Debug\Student_Grading_System.Properties.Resources.resources
+E:\dotnet_Projects\Student Grading System\obj\Debug\StudentGradingSystem.csproj.GenerateResource.cache
+E:\dotnet_Projects\Student Grading System\obj\Debug\StudentGradingSystem.csproj.CoreCompileInputs.cache
+E:\dotnet_Projects\Student Grading System\bin\Debug\Student Grading System.exe.config
+E:\dotnet_Projects\Student Grading System\bin\Debug\Student Grading System.exe
+E:\dotnet_Projects\Student Grading System\bin\Debug\Student Grading System.pdb
+E:\dotnet_Projects\Student Grading System\obj\Debug\Student_Grading_System.Form1.resources
+E:\dotnet_Projects\Student Grading System\obj\Debug\Student Grading System.exe
+E:\dotnet_Projects\Student Grading System\obj\Debug\Student Grading System.pdb

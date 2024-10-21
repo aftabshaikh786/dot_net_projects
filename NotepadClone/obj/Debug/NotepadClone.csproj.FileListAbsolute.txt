@@ -1,0 +1,10 @@
+E:\dotnet_Projects\NotepadClone\obj\Debug\NotepadClone.csproj.AssemblyReference.cache
+E:\dotnet_Projects\NotepadClone\obj\Debug\NotepadClone.Form1.resources
+E:\dotnet_Projects\NotepadClone\obj\Debug\NotepadClone.Properties.Resources.resources
+E:\dotnet_Projects\NotepadClone\obj\Debug\NotepadClone.csproj.GenerateResource.cache
+E:\dotnet_Projects\NotepadClone\obj\Debug\NotepadClone.csproj.CoreCompileInputs.cache
+E:\dotnet_Projects\NotepadClone\bin\Debug\NotepadClone.exe.config
+E:\dotnet_Projects\NotepadClone\bin\Debug\NotepadClone.exe
+E:\dotnet_Projects\NotepadClone\bin\Debug\NotepadClone.pdb
+E:\dotnet_Projects\NotepadClone\obj\Debug\NotepadClone.exe
+E:\dotnet_Projects\NotepadClone\obj\Debug\NotepadClone.pdb

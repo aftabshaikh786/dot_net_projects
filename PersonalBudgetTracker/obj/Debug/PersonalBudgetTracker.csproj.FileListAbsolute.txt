@@ -1,0 +1,10 @@
+E:\dotnet_Projects\PersonalBudgetTracker\bin\Debug\PersonalBudgetTracker.exe.config
+E:\dotnet_Projects\PersonalBudgetTracker\bin\Debug\PersonalBudgetTracker.exe
+E:\dotnet_Projects\PersonalBudgetTracker\bin\Debug\PersonalBudgetTracker.pdb
+E:\dotnet_Projects\PersonalBudgetTracker\obj\Debug\PersonalBudgetTracker.csproj.AssemblyReference.cache
+E:\dotnet_Projects\PersonalBudgetTracker\obj\Debug\PersonalBudgetTracker.Form1.resources
+E:\dotnet_Projects\PersonalBudgetTracker\obj\Debug\PersonalBudgetTracker.Properties.Resources.resources
+E:\dotnet_Projects\PersonalBudgetTracker\obj\Debug\PersonalBudgetTracker.csproj.GenerateResource.cache
+E:\dotnet_Projects\PersonalBudgetTracker\obj\Debug\PersonalBudgetTracker.csproj.CoreCompileInputs.cache
+E:\dotnet_Projects\PersonalBudgetTracker\obj\Debug\PersonalBudgetTracker.exe
+E:\dotnet_Projects\PersonalBudgetTracker\obj\Debug\PersonalBudgetTracker.pdb
